@@ -1,0 +1,29 @@
+name: Garage Door Repair Bellevue
+favicon: null
+layout_spectrum: 0.5945387659594417
+typography_spectrum: 0.9205171312205493
+title: 'Garage Door Repair Bellevue, WA'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7723143068142235
+  lightness: 0.6471271398477256
+  saturation: 0.13492035097442567
+  rhythmicContrast: 0.5409426931291819
+purpose: []
